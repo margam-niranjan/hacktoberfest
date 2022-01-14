@@ -1,7 +1,16 @@
+#### Name: Niranjan
+ - Place: Hyderabad, India
+ - Bio: 2nd year computer science
+ - GitHub: [Niranjan-Margam](https://github.com/margam-niranjan)
+
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
@@ -16,6 +25,7 @@
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
+- 
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
